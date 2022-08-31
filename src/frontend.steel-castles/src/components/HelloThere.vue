@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1 class="text-3xl font-bold text-red-400 underline"> Steel-Castles Api is working!</h1>
     <img src="https://tech.osteel.me/images/2020/03/04/hello.gif" alt="Hello there" className="center">
     <p>{{ msg }}</p>
   </div>
